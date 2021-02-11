@@ -1,4 +1,4 @@
-Civil engeenering in computer science student at Universidad de los Andes, Chile.
+Currently studying Civil Engeenering in Computer Science at Universidad de los Andes, Chile.
 
 Projects:
 - [Simulador de toma de ramos Uandes](https://bit.ly/TomadorRamosUandes)
