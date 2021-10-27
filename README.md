@@ -1,5 +1,5 @@
 Software engineering student at Universidad de los Andes, Chile.
 
-Projects:
+Personal projects:
 - [*Simulador de toma de ramos Uandes*](https://bit.ly/TomadorRamosUandes).
 - [*Great Ayuda*](http://www.g-ayuda.net) educational website.
