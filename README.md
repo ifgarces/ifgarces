@@ -2,6 +2,6 @@ Software engineering student at Universidad de los Andes, Chile.
 
 Personal projects:
 
-- (active, non open-source) [*Simulador de toma de ramos Uandes* (web application)](https://tomaramos.app).
-- (deprecated, open-source) [*Simulador de toma de ramos Uandes* (Android)](https://bit.ly/TomadorRamosUandes).
-- (end of support) [*Great Ayuda*](http://www.g-ayuda.net) old educational website.
+- [TomaRamosApp](https://tomaramos.app): [active] web application for helping students inscribe courses at Universidad de los Andes.
+- ~~([*Simulador de toma de ramos Uandes* (Android)](https://bit.ly/TomadorRamosUandes)~~: [deprecated] open-source Android application (old version of TomaRamosApp).
+- ~~[*Great Ayuda*](http://www.g-ayuda.net)~~: [end of support] static website with educational content.
