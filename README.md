@@ -1,4 +1,9 @@
-> Backend | DevOps | CI | docker-compose | Rails | Python
+```json
+{
+  "description": "Junior software engineer",
+  "interests": [ "Backend", "DevOps", "CI", "Docker & docker-compose", "Ruby on Rails", "Python" ]
+}
+```
 
 Personal projects:
 
