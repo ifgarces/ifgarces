@@ -1,7 +1,7 @@
 ```json
 {
   "description": "Junior software engineer",
-  "interests": [ "Backend", "DevOps", "CI", "Docker & docker-compose", "Ruby on Rails", "Python" ]
+  "interests": [ "Web backend", "DevOps", "CI", "Docker and docker-compose", "Ruby", "Rails", "Python", "Golang", "Automated testing" ]
 }
 ```
 
