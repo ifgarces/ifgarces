@@ -1,7 +1,9 @@
 ```json
 {
   "description": "Junior software engineer",
-  "skills": [ "backend", "ruby", "python", "rails", "testing", "docker-compose", "bash scripting", "golang", "react" ]
+  "skills": [
+    "backend", "ruby", "python", "rails", "testing", "docker-compose", "bash scripting", "golang", "react"
+  ]
 }
 ```
 
