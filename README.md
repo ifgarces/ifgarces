@@ -1,8 +1,9 @@
 ```json
 {
-  "description": "Junior software engineer",
+  "profession": "Software engineer",
+  "description": "Efficiency chaser, eager to learn. Web: Fullstack profile, but more inclined towards Backend (+ DevOps).",
   "skills": [
-    "backend", "ruby", "python", "rails", "testing", "docker-compose", "bash scripting", "golang", "react"
+    "backend", "ruby", "python", "rails", "next-js", "react", "unit-testing", "docker-compose", "aws"
   ]
 }
 ```
