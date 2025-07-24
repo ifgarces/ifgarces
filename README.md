@@ -2,10 +2,10 @@
 {
   "is_looking_for_hire": false,
   "profession": "Software engineer",
-  "experience_years": 1,
+  "experience_years": 2,
   "description": "Efficiency chaser, eager to learn. Web: Fullstack profile, but more inclined towards Backend (+ DevOps).",
   "skills": [
-    "backend", "ruby", "python", "rails", "next-js", "react", "unit-testing", "docker-compose", "aws"
+    "backend", "ruby", "rails", "next-js", "react", "flutter", "angular", "unit-testing", "docker-compose", "aws", "python"
   ]
 }
 ```
