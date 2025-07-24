@@ -1,6 +1,6 @@
 ```json
 {
-  "is_open_to_work": false,
+  "is_looking_for_hire": false,
   "profession": "Software engineer",
   "experience_years": 1,
   "description": "Efficiency chaser, eager to learn. Web: Fullstack profile, but more inclined towards Backend (+ DevOps).",
